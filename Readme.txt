@@ -24,4 +24,4 @@ To implement:
 	core GetWordFromFile function
 - a user-desired 'dictionary selection' allowing for more
 	common words, rarely used words, or a mix of the two
-	to be utilized
+	to be utilized at will
